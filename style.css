@@ -1,0 +1,56 @@
+.header_div{
+    background-color:cornflowerblue;
+    color:crimson;
+    
+}
+
+.header_div img{
+    width: 100px;
+}
+
+body{
+    background-color: mediumaquamarine;
+    font-family: 'Italianno', cursive;
+}
+
+.header_div h2{
+    font-size: 45px;
+}
+
+.main_div button, label{
+    font-size:30px;
+}
+
+#camera,#result{
+    border: 7px solid crimson;
+    height:350px;
+    width:350px;
+    box-shadow:20px 20px 18px black;
+}
+
+.main_div button{
+    margin-top: 15px;
+}
+
+.footer_div{
+    margin-bottom: 55px;
+}
+
+.footer_div h4{
+    background-color:rgb(16, 219, 219);
+    border-radius: 12px;
+    box-shadow: 5px 5px 18px black;
+    padding:6px;
+    margin-top:20px;
+}
+
+.footer_div img{
+    width:50px;
+}
+
+.coppy_right_footer{
+    font-size: 45px;
+    text-align:center;
+    color:maroon;
+    font-weight: bold;
+}
