@@ -54,3 +54,7 @@ body{
     color:maroon;
     font-weight: bold;
 }
+
+#object_name{
+    font-size: 35px;
+}
